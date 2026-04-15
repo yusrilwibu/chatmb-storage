@@ -1,0 +1,9 @@
+{
+  "name": "chatmb-media-server",
+  "version": "1.0.0",
+  "description": "ChatMb Media Upload Server",
+  "dependencies": {
+    "multiparty": "^4.2.3",
+    "node-fetch": "^2.7.0"
+  }
+}
